@@ -1,4 +1,4 @@
-![MasterHead](https://media4.giphy.com/headers/thx4bnu/AOVGGzLh98BS.jpg)
+<img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="MasterHead" width= "1000" height="450">
 
 <h1 align="center">Hi 👋, I'm Saloni Kuralkar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
