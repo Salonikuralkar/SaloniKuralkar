@@ -1,12 +1,10 @@
-<img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="MasterHead" width= "1000" height="450">
+<img src="https://i.pinimg.com/originals/de/db/d3/dedbd35fd523ad115ef6af9fd1b82a00.gif" align="center" alt="MasterHead" width= "900" height="300">
 
 <h1 align="center">Hi 👋, I'm Saloni Kuralkar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salonikuralkar&label=Profile%20views&color=0e75b6&style=flat" alt="salonikuralkar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salonikuralkar" alt="salonikuralkar" /></a> </p>
 
 - 🌱 I’m currently learning **React, NextJS**
 - 💬 Ask me about **Angular Node Express Postgres MongoDB Python**
