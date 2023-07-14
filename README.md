@@ -1,19 +1,28 @@
-<img src="https://i.pinimg.com/originals/de/db/d3/dedbd35fd523ad115ef6af9fd1b82a00.gif" align="center" alt="MasterHead" width= "900" height="300">
+<img src="https://i.pinimg.com/originals/de/db/d3/dedbd35fd523ad115ef6af9fd1b82a00.gif" align="center" alt="MasterHead" width="900" height="300">
 
 <h1 align="center">Hi 👋, I'm Saloni Kuralkar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salonikuralkar&label=Profile%20views&color=0e75b6&style=flat" alt="salonikuralkar" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=salonikuralkar&label=Profile%20views&color=0e75b6&style=flat" alt="salonikuralkar" />
+</p>
+
+<br> <!-- Add spacing -->
 
 - 🌱 I’m currently learning **React, NextJS**
-- 💬 Ask me about **Angular Node Express Postgres MongoDB Python**
+- 💬 Ask me about **Angular Node Express Postgres MongoDB**
 - 📫 How to reach me **saloni.kuralkar@gmail.com**
+
+<br> <!-- Add spacing -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/saloni r kuralkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saloni r kuralkar" height="30" width="40" /></a>
 </p>
+
+<br> <!-- Add spacing -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -47,8 +56,20 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salonikuralkar&show_icons=true&locale=en&layout=compact" alt="salonikuralkar" /></p>
+<br> <!-- Add spacing -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salonikuralkar&show_icons=true&locale=en" alt="salonikuralkar" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salonikuralkar&show_icons=true&locale=en&layout=compact" alt="salonikuralkar" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salonikuralkar" alt="salonikuralkar" /></p>
+
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salonikuralkar&show_icons=true&locale=en" alt="salonikuralkar" />
+</p>
+
+
+
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=salonikuralkar" alt="salonikuralkar" />
+</p>
